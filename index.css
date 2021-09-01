@@ -1,0 +1,27 @@
+body,html {
+    height: 90%;
+  }
+
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70%;
+    background: green;
+}
+
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    background: blueviolet; 
+}
+.compickdiv{
+    text-align: center;
+}
+button{
+    width: 200px;
+    height: 200px;
+}
